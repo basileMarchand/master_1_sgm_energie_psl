@@ -18,3 +18,4 @@ Index
    07_scipy.ipynb
    08_matplotlib.ipynb
    XX_exercices.ipynb
+   YY_projets.ipynb
