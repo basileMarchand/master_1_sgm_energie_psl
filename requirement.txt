@@ -18,3 +18,5 @@ sphinx-rtd-theme
 jupyter_client
 sphinxcontrib-bibtex<2.0.0
 panflute==1.12.5
+Jinja2==2.11
+
