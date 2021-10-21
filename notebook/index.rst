@@ -16,3 +16,4 @@ Index
    05_classes_et_poo_base.ipynb
    06_numpy.ipynb
    XX_exercices.ipynb
+   YY_projets.ipynb
